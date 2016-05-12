@@ -1,0 +1,3 @@
+Sam,dwarf, 90, 40, 3
+Sword, 25
+plate male, 85
